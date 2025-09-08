@@ -1,6 +1,6 @@
 module github.com/philips-labs/tabia
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.3
 
@@ -14,7 +14,7 @@ require (
 	github.com/urfave/cli/v2 v2.27.6
 	github.com/xanzy/go-gitlab v0.105.0
 	golang.org/x/net v0.39.0
-	golang.org/x/oauth2 v0.29.0
+	golang.org/x/oauth2 v0.31.0
 	golang.org/x/tools v0.32.0
 )
 
